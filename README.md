@@ -179,7 +179,7 @@ Potential extensions include learned meta-models for recommendation, automated h
 
 ## Authors
 
-Yashshree Kirad
-Shaivi Bansal
-Kushal Hawaldar
+*Yashshree Kirad
+*Shaivi Bansal
+*Kushal Hawaldar
 
