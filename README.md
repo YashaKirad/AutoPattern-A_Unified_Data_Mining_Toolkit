@@ -178,10 +178,8 @@ Potential extensions include learned meta-models for recommendation, automated h
 ---
 
 ## Authors
-* Interactive visualizations for result interpretation
-* Experiment tracking and reproducibility using MLflow
-* User-controlled parameter tuning for deeper analysis
-*Yashshree Kirad
-*Shaivi Bansal
-*Kushal Hawaldar
+* Yashshree Kirad
+* Shaivi Bansal
+* Kushal Hawaldar
+
 
