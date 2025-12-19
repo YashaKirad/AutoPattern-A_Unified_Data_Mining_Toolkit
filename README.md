@@ -99,7 +99,7 @@ The following datasets were used during development and evaluation:
 | Task                    | Dataset                                           |
 | ----------------------- | ------------------------------------------------- |
 | Classification          | Titanic Dataset                                   |
-| Clustering              | Mall Customers Dataset                            |
+| Clustering              | Iris Dataset                                      |
 | Anomaly Detection       | Credit Card Transactions                          |
 | Association Rule Mining | Grocery Basket Dataset                            |
 
