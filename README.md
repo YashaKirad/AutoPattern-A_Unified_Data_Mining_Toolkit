@@ -75,19 +75,19 @@ These parameters control the frequency, reliability, and strength of discovered 
 
 AutoPattern follows a modular and layered architecture:
 
-1. Data Ingestion Layer
+1. Data Ingestion Layer:
    Loads structured datasets and extracts schema information.
 
-2. Preprocessing Layer
+2. Preprocessing Layer:
    Automatically handles missing values, feature scaling, and categorical encoding using a unified scikit-learn pipeline.
 
-3. Auto-Recommendation Layer
+3. Auto-Recommendation Layer:
    Analyzes dataset meta-features and suggests suitable tasks, target variables, and algorithms using rule-based heuristics.
 
-4. Modeling Layer
+4. Modeling Layer:
    Executes selected data mining algorithms for classification, clustering, anomaly detection, or association rule mining.
 
-5. Visualization and Experiment Tracking Layer
+5. Visualization and Experiment Tracking Layer:
    Presents results using interactive plots and logs experiments using MLflow for reproducibility.
 
 ---
